@@ -1,6 +1,6 @@
 Package: bolasso
 Title: Model Consistent Lasso Estimation Through the Bootstrap
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: 
     person(given = "Daniel",
            family = "Molitor",
@@ -19,11 +19,11 @@ RdMacros: Rdpack
 License: MIT + file LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.1.2
-URL: https://dmolitor.github.io/bolasso/
+URL: https://www.dmolitor.com/bolasso/
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2022-01-03 17:23:02 UTC; DanielMolitor
+Packaged: 2022-05-06 20:31:45 UTC; DanielMolitor
 Author: Daniel Molitor [aut, cre]
 Maintainer: Daniel Molitor <molitdj97@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-01-04 14:50:14 UTC
+Date/Publication: 2022-05-09 08:10:10 UTC
